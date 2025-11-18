@@ -37,8 +37,8 @@ To write a Python program to demonstrate the **adjacency list representation** o
 ## PYTHON PROGRAM
 
 ```python
-# Reg.No: 212223060220
-# Name: Rakshitha M
+# Reg.No: 212223060239
+# Name: sandhiya g
 class AdjNode:
 	def __init__(self, data):
 		self.vertex = data
